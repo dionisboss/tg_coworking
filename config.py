@@ -1,0 +1,6 @@
+BOT_TOKEN = "#"
+
+BASE_URL = "http://127.0.0.1:8000"
+
+TELEGRAM_SECRET_KEY = "eL@2sT!cW0rK.Sp@$3.T3l$gR@m"
+TELEGRAM_DATE_HASH_SECRET_KEY = "SX&@(3.TT.#l$gR@m"
